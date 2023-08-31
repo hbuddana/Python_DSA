@@ -13,7 +13,7 @@ def pop(self):
         temp = temp.next
     self.tail = pre # When the loop fails we set the tail to the Node before the Last node
     self.tail.next = None # As the following node is None we declare that 
-    self.length = -1
+    self.length -= 1
 
 #Lets assume the LL contains only one node
 
