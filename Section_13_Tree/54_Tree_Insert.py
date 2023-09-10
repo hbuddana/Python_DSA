@@ -28,5 +28,5 @@ def insert(self, value):
             if temp.right is None:
                 temp.right = new_node
                 return True
-            # Otherwise, continue traversing to the right.
+            # Otherwise, continue traversing to the right
             temp = temp.right
