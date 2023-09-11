@@ -1,6 +1,6 @@
 
 
-
+#Pop - Deleting the node at the end of the LL
 
 def pop(self):
     if self.length == 0: # If the LL is empty return None straightaway
