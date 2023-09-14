@@ -1,5 +1,5 @@
 def dequeue(self):
-    # Check if the queue is empty (length is 0).
+    # Check if the queue is empty (if the length is 0).
     if self.length == 0:
         return None
 
