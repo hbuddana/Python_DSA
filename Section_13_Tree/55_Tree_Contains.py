@@ -12,7 +12,7 @@ def contains(self, value):
         # If the value is greater than the current node's value, move to the right subtree.
         elif value > temp.value:
             temp = temp.right
-        # If the value matches the current node's value, return True (value found).
+        # If the value matches the current node's value, return True.
         else:
             return True
     
