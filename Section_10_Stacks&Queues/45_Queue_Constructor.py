@@ -26,7 +26,7 @@ class Queue:
             print(temp.value)  # Print the value of the current node.
             temp = temp.next  # Move to the next node in the list.
 
-# Create a new queue called 'my_q' with an initial value of 4888.
+# Create a new queue called 'my_q'
 my_q = Queue(4888)
 
 # Call the 'print_queue' method to print the elements in the queue.
