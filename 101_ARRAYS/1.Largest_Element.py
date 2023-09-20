@@ -18,3 +18,5 @@ print(max)
 
 
 # Optimal solution with O(n) runtime.
+
+# Brute - Force Method: Just sort the array and return the last element.
