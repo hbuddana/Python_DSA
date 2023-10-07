@@ -15,5 +15,6 @@ for i in range(len(arr)):
     
 print(maxi)
 
+#maxi is the max
 
 
