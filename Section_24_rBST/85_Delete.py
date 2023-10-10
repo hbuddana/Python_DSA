@@ -47,4 +47,4 @@ It takes three arguments: current_node, which represents the current node being 
 The node to delete has no children (a leaf node).
 The node to delete has one child.
 The node to delete has two children.
-The delete_node method serves as a public interface for deleting values from the BST, and it starts the deletion process from the root."""
+The delete_node method serves as a public interface(for ease) for deleting values from the BST, and it starts the deletion process from the root."""
