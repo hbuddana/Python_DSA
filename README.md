@@ -12,4 +12,4 @@ Welcome to a treasure trove of Pythonic wisdom, where we delve into the fascinat
 - 🌐 Easy-to-navigate structure for quick reference.
 
 
-Happy coding! 🚀
+Happy coding! 👾🚀
