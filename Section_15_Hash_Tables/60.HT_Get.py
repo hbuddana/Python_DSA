@@ -3,7 +3,7 @@ def get_index(self, key):
     # Calculate the index where the key-value pair is expected to be stored using the '__hash' method
     index = self.__hash(key)
     
-    # Check if the slot at the calculated index is not empty (i.e., it's not None)
+    # Check if the slot at the calculated index is not empty (i.e., it's not Non)
     if self.data_map[index] is not None:
         # Iterate through the list of key-value pairs stored at the calculated index
         for i in range(len(self.data_map[index])):
